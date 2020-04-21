@@ -6,10 +6,10 @@ As a first attempt I encoded the values of "primary_medium" into machine readabl
 
 For my first iteration I use the features primary_medium, color, texture, black and white value, and shape. 
 The intertia plot by number of clusters shows distinct cluster from numbers 1-6.  
-![alt text](01_inertia.png)
+![alt text](01_inertia.png)  
 I therefore decided  to have a closer look on the cluster numbers of 4,8,12,15 and 20.  
 For this first iteration I then decided to organize them in 4 clusters, as the silhouette analysis had less outliers in the clusters, although there still are a few.   
-![alt text](02_4cluster.png)
+![alt text](02_4cluster.png)  
 For comparison reasons also attached is the silhouette plot for 8 clusters.  
 
 ### Final representation first iteration
