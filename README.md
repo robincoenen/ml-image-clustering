@@ -2,6 +2,44 @@
 
 ## My Goal is to create clusters which visually, in terms of visual language and style of all images would also be classified into clusters by a human.
 
+#### Final Iteration 1
+
+I kept trying to create clusters in which only visually similiar images would be clustered in. This attempt failed when viewed on the whole body of images per clusters. However I was able to find some interesting juxtapositions within the differennt clusters:  
+![alt text](juxta1.png)
+![alt text](juxta2.png)
+![alt text](juxta3.png)
+![alt text](juxta4.png)
+
+
+
+### Final representation first iteration
+Final Clusters:  
+![alt text](clustera.png)
+![alt text](clusterb.png)
+![alt text](clusterc.png)
+![alt text](clusterd.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Iteration 1
+
 As a first attempt I encoded the values of "primary_medium" into machine readable values. I also did this with the "country of origin" but decided not to use this feature, as it does not have an impact on the style of images.  
 
 For my first iteration I use the features primary_medium, color, texture, black and white value, and shape. 
